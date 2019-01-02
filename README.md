@@ -1,5 +1,6 @@
 # MelonHeadsV2.0
 MelonHeads algo swap from scrypt to X11
+You need three files to in your "MelonHeads" folder to run in windows: the .qt, the .tx, and the .cli.
 This coin is now mineable, the blockchain is up and running , here is how to mine:
 
 Open your wallet, and make sure your wallet is connected with a node. 
